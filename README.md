@@ -37,3 +37,11 @@ const convertChoiceToInt = (choice) => {
 Your choice as key of index to give you the value directly instead of using a switch and can be reused if assigned to a variable instead of making a function. Cool. Not sure if it is better but it is a cool idea. Oh, the Codecademy doesn’t like the default value for some reason so commented out. It works fine in node.js though.
 Will post all code as a follow up post.
 Anyway, I was having a good time just learning again and having the freedom to screw around with code and thought I would share.
+
+Note:: these are not mine I found them on stack overflow, and I wanted to give credit to who came up with them.
+Win determination in one line: c - One-liner to determine who wins in Rock, Paper, Scissors - Stack Overflow
+By: User interjay - Stack Overflow
+
+Object Switch: javascript - Is returning out of a switch statement considered a better practice than using break? - Stack Overflow 
+By :: User leonheess - Stack Overflow
+down near bottom of thread
