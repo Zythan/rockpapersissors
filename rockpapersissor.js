@@ -1,3 +1,5 @@
+const test1 = 0 //testing submodule stuff
+
 const getUserChoice = userInput => {
     userInput = userInput.toLowerCase()
     switch (userInput) {
@@ -8,7 +10,6 @@ const getUserChoice = userInput => {
         default: console.log("Invalid Choice")
     }
 }
-const test1 = 0
 
 const getRandomChoice = (number = 3) => {
     const randNum = Math.floor(Math.random() * number)    
