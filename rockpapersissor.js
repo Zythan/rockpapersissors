@@ -8,6 +8,7 @@ const getUserChoice = userInput => {
         default: console.log("Invalid Choice")
     }
 }
+const test1 = 0
 
 const getRandomChoice = (number = 3) => {
     const randNum = Math.floor(Math.random() * number)    
@@ -81,7 +82,7 @@ console.log(`Player Wins   : ${playerWins}`)
 console.log(`Computer Wins : ${computerWins}`)
 console.log(`Ties          : ${ties}`)
 console.log(`Player Cheated: ${cheated}`)
-  
+
   
 
 
